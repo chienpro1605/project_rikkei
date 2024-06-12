@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProjectRikkeiApplication {
 
     public static void main(String[] args) {
+
+        ewreggrg
         SpringApplication.run(ProjectRikkeiApplication.class, args);
     }
 
